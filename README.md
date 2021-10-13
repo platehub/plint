@@ -1,8 +1,8 @@
 ![Plint](/assets/plint.jpg "Plint")
 
-# WIP: Plint (Plate Integration)
+# Plint  *(WIP)*
 
-Plint is a ruby gem, a toolkit containing utilities for building integrations on AWS Lambda, but potentially also on other platforms
+Plint (Plate Integration) is a ruby gem, a toolkit containing utilities for building integrations on AWS Lambda, but potentially also on other platforms
 
 ## Installation
 
