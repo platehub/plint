@@ -48,6 +48,9 @@ Plint.log_info("Message")
 
 ### Monitoring
 
+### Robustness
+- Tools for retrying errors in Lambda function executions
+
 ### Environment variables
 
 ### Software Environments (Development, Testing, Acceptance, Production)
